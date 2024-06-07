@@ -1,0 +1,14 @@
+body{
+    background-image: url(brazil-3001462_1280.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
